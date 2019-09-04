@@ -1,0 +1,39 @@
+#joinus img{
+    margin-left: 30px;;
+}
+#joinus{
+width: 70%;
+height: 400px;
+margin-top: -40px; 
+margin-left: 350px;
+border: solid 1px rgb(57, 70, 145);
+-moz-box-shadow: 0px 3px 8px rgb(100,100,100);
+-webkit-box-shadow: 0px 3px 8px rgb(100,100,100);
+box-shadow: 0px 3px 8px rgb(100,100,100);
+
+text-align: center;
+}
+#join_text{
+    margin-right: -500px;
+    width: 30%;
+    height: 400px;
+}
+#join_text p{
+    text-align: left;
+    font-size: 15px;
+    width: 80px;
+    margin: 0px;
+    margin-left: -80px;
+}
+#submit{
+    width: 150px;
+    height: 50px;
+    margin-top: -30px;
+    border-radius: 3px;
+    font-weight: 600;
+    border-color: transparent;
+    font-size: 10px;
+    background: rgb(242, 242, 240);
+    color: black;
+   cursor: pointer;
+}
